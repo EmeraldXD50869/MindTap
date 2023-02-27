@@ -1,3 +1,5 @@
+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
+
 OPTIONAL GIT SYNC INSTRUCTIONS
 
 Verify that Git is Installed 
